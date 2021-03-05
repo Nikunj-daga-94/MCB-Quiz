@@ -1,0 +1,36 @@
+{
+    "questions" : [ {
+        "id": 1,
+      "answer" : "A",
+       "options":["A",
+       "B",
+       "C",
+       "D"],
+      "question" : "why1???"
+    }, {
+        "id": 2,
+      "answer" : "A",
+      "options":["A",
+        "B",
+        "C",
+        "D"],
+      "question" : "why2???"
+    }, {
+        "id": 3,
+      "answer" : "A",
+      "options" :[ "A",
+       "B",
+       "C",
+       "D"],
+      "question" : "why3???"
+    }, {
+        "id": 4,
+      "answer" : "A",
+      "options":["A",
+        "B",
+        "C",
+        "D"],
+      "question" : "why4???"
+    } ],
+    "Time" : 20
+  }

@@ -15,7 +15,15 @@
 .App-intro {
   font-size: large;
 }
-
+.myDiv{
+	width: 100%;
+    padding: 10px;
+    background: #f99f53;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid #f97200;
+    color: #fff;
+}
 td,th{
   border: 1px solid black;
   text-align: center;
